@@ -9,29 +9,29 @@ This repository tracks my 100-day coding challenge to become an advanced develop
 
 - **Goal**: Land a software engineering role.  
 - **Tech**: Golang, React/Next.js, Node.js, Python, C++  
-- **Follow**: [Twitter](https://twitter.com/YOUR_TWITTER) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Portfolio](YOUR_PORTFOLIO_LINK)
+- **Follow**: [Twitter](https://twitter.com/YOUR_TWITTER) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN))
 
 ## 🛠️ Projects
 
 1. **Task Manager**  
    - *Tech*: Golang + Next.js  
    - *Description*: Full-stack CRUD app for tasks.  
-   - *Status*: In Progress | [Demo](YOUR_DEMO_LINK) | [Code](/task-manager)
+   - *Status*: In Progress | 
 
 2. **Personal Portfolio**  
    - *Tech*: React.js, TailwindCSS, Next.js  
    - *Description*: Dynamic showcase of my work.  
-   - *Status*: Live | [Demo](YOUR_DEMO_LINK) | [Code](/portfolio)
+   - *Status*: Live | 
 
 3. **AI Predictor**  
    - *Tech*: Python, Scikit-learn  
    - *Description*: Simple ML model for predictions.  
-   - *Status*: Planned | [Code](/ai-predictor)
+   - *Status*: Planned | 
 
 4. **OpenGL Graphics**  
    - *Tech*: C++, OpenGL  
    - *Description*: 2D/3D graphics rendering.  
-   - *Status*: Planned | [Code](/opengl-graphics)
+   - *Status*: Planned | 
 
 ## 📅 Roadmap
 
@@ -75,13 +75,13 @@ This repository tracks my 100-day coding challenge to become an advanced develop
 ## 📈 Progress
 
 - **Days**: 0/100 (as of April 08, 2025)  
-- **Commits**: [History](https://github.com/YOUR_USERNAME/100DaysOfCode/commits/main)  
+- **Commits**: [History](https://github.com/Manzoor231/100DaysCoding/commits/main)  
 - **PRs**: 0 (target: 2+)  
 - **Live Projects**: 0 (target: 3+)
 
 ## 🤝 Contributing
 
-- Report bugs: [Issues](https://github.com/YOUR_USERNAME/100DaysOfCode/issues)  
+- Report bugs: [Issues](https://github.com/Manzoor231/100DaysCoding/issues)  
 - Contribute: Fork and PR  
 - Join: #100DaysOfCode
 
@@ -95,8 +95,8 @@ This repository tracks my 100-day coding challenge to become an advanced develop
 
 ## 📬 Contact
 
-- **GitHub**: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
-- **Twitter**: [@YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)  
-- **Email**: YOUR_EMAIL@example.com  
+- **GitHub**: [YOUR_USERNAME](https://github.com/Manzoor231)  
+- **Twitter**: [@YOUR_TWITTER](https://twitter.com/_realmanzoor)  
+- **Email**: manzoorstrange2002@gmail.com  
 
 *“Code is poetry—writing my story one line at a time.”*
