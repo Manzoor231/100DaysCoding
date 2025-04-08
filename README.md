@@ -9,7 +9,7 @@ This repository tracks my 100-day coding challenge to become an advanced develop
 
 - **Goal**: Land a software engineering role.  
 - **Tech**: Golang, React/Next.js, Node.js, Python, C++  
-- **Follow**: [Twitter](https://twitter.com/YOUR_TWITTER) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN))
+- **Follow**: [Twitter](https://twitter.com/_realmanzoor) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN))
 
 ## 🛠️ Projects
 
@@ -95,8 +95,8 @@ This repository tracks my 100-day coding challenge to become an advanced develop
 
 ## 📬 Contact
 
-- **GitHub**: [YOUR_USERNAME](https://github.com/Manzoor231)  
-- **Twitter**: [@YOUR_TWITTER](https://twitter.com/_realmanzoor)  
+- **GitHub**: [Manzoor Strange](https://github.com/Manzoor231)  
+- **Twitter**: [@ManzoorStrange](https://twitter.com/_realmanzoor)  
 - **Email**: manzoorstrange2002@gmail.com  
 
 *“Code is poetry—writing my story one line at a time.”*
